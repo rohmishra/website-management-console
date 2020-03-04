@@ -1,0 +1,29 @@
+{
+  "name": "website-management-console",
+  "version": "0.1.2",
+  "description": "Provides management console for crazydeveloper.fail. Used to manage Articles on blogpage, monitor contact requests and in future, provide dynamic content for more website modules.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohmishra/website-management-console.git"
+  },
+  "keywords": [
+    "management",
+    "console",
+    "personal",
+    "website",
+    "nodejs"
+  ],
+  "author": "Rohan M.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rohmishra/website-management-console/issues"
+  },
+  "homepage": "https://github.com/rohmishra/website-management-console#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
